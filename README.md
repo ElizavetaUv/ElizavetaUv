@@ -1,9 +1,10 @@
 <h2 align="left">
  <div>
-  <br>Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
-  <br> I'm Elizaveta Uvarova, Frontend Developer 💻<br>
-  <br>
-    <img src="https://i.pinimg.com/originals/0b/63/6e/0b636e5a912bdea942778dff3017ac4d.gif" alt="Coder" width="400">
+    <h2>Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+    I'm Elizaveta Uvarova, Frontend Developer 💻
+    <br>
+    <br>
+    <img src="./coder.gif" alt="Coder" width="350">
  </div>
 </h2> 
 <h2 align="left">Technologies and Tools I use 🛠</h2>
